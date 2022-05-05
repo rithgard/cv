@@ -29,7 +29,11 @@ p {
 
 .top {
     background-color: #00ADB5;
-    color: #050505
+    color: #050505;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
     }
 
 .middle {
