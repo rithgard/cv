@@ -12,6 +12,8 @@ border-style: dotted none none; width: 10%; border-width: 5px
 h1 {
     font-family: 'Rubik', sans-serif;
     font-size: 300%;
+    margin-top: 0;
+    padding-top: 32px;
     }
 
 h2 {
